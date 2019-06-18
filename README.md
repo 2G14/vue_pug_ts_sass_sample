@@ -1,5 +1,7 @@
 # sample
 
+Vue with pug & TypeScript & Sass sample.
+
 ## Project setup
 ```
 yarn install
